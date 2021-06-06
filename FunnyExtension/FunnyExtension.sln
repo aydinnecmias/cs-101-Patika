@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyExtension", "FunnyExtension.csproj", "{B245F980-B793-459B-840B-A97ED8D01B24}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyExtension", "FunnyExtension.csproj", "{F48834D0-BCE5-4159-94C6-7534D903D691}"
+>>>>>>> parent of 9d0abe9 (Delete FunnyExtension directory)
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{B245F980-B793-459B-840B-A97ED8D01B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B245F980-B793-459B-840B-A97ED8D01B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B245F980-B793-459B-840B-A97ED8D01B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B245F980-B793-459B-840B-A97ED8D01B24}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{F48834D0-BCE5-4159-94C6-7534D903D691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48834D0-BCE5-4159-94C6-7534D903D691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48834D0-BCE5-4159-94C6-7534D903D691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48834D0-BCE5-4159-94C6-7534D903D691}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> parent of 9d0abe9 (Delete FunnyExtension directory)
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {5E89DB81-3FAF-448A-8FDB-BA1316D44D8D}
+=======
+		SolutionGuid = {4EA3B8D1-3348-41CA-A0BF-FBE15B589319}
+>>>>>>> parent of 9d0abe9 (Delete FunnyExtension directory)
 	EndGlobalSection
 EndGlobal
