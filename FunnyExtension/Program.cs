@@ -16,7 +16,7 @@ namespace FunnyExtension
         }
     }
 
-    public static class Funny 
+    public static class Funny
     {
 
         public static string Troll(this string param)
@@ -25,13 +25,13 @@ namespace FunnyExtension
 
             if (param.Contains("i")) { }
 
-                      
-                return param.Replace("i", "ö");
+
+            return param.Replace("i", "ö");
 
 
 
         }
-       
+
 
     }
 }
