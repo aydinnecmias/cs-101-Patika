@@ -16,7 +16,7 @@ namespace FunnyExtension
         }
     }
 
-    public static class Funny
+    public static class Funny 
     {
 
         public static string Troll(this string param)
